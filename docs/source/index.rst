@@ -48,4 +48,18 @@ https://chatgpt.com/
 #. kakaszka
     - rzecz
 
-.. image:: ./bmw46.png :alt: najlepsza
+.. image:: ./bmw46.png 
+            :alt: najlepsza
+
+
+
+
++--------+--------+--------+
+| Kol1   | Kol2   | Kol3   |
++--------+--------+--------+
+| Wiersz1| Wiersz1| Wiersz1|
++--------+--------+--------+
+| Wiersz2| Wiersz2| Wiersz2|
++--------+--------+--------+
+| Wiersz3| Wiersz3| Wiersz3|
++--------+--------+--------+
