@@ -1,22 +1,51 @@
-Welcome to Lumache's documentation!
-===================================
+Nic strasznego 1
+==========
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+==========
+Fajna pogoda przeciez 2
+==========
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Ok 3
+----------
 
-.. note::
+4 cos
+^^^^^^^^^^
 
-   This project is under active development.
+zwykly tekst
 
-Contents
---------
+.. note::  
+   nic strasznego nie ma
+.. Tip::
+   okej
 
-.. toctree::
+:code:`fajna ocena bedzie`
+:: 
 
-   usage
-   api
+   def hello():
+       print("Hello, world!")
+
+
+
+.. _1-label:
+
+1
+======
+Odwolanie: :ref:`1-label`.
+https://chatgpt.com/
+
+
+
+
+#. pierwszy
+#. drugi
+
+
+- rzecz
+- rzecz
+- rzecz
+
+
+#. kakaszka
+    - rzecz
+
+.. image:: ./bmw46.png :alt: najlepsza
